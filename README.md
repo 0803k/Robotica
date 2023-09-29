@@ -1,1 +1,1 @@
-# Robotica
+My name is Dilara Kynta Putri Raflita with student ID 1103204059. This repository is created to record the results of my work in the Robotica TK-44-G4 class, starting from weekly assignments, midterms, and final projects.
